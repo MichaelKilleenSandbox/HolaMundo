@@ -11,6 +11,8 @@ public class HolaMundoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Just a bunch of nothing");
+		System.out.println("...");
 	}
 
 }
