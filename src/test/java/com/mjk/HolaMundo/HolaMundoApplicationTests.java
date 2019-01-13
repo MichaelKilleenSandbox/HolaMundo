@@ -11,6 +11,7 @@ public class HolaMundoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Write a test later");
 	}
 
 }
