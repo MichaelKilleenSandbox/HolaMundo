@@ -11,8 +11,7 @@ public class HolaMundoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("Write a test later");
-		System.out.println("Better sooner rather than later!!!");
+		System.out.println("Write a test later, but better sooner rather than later!!!");
 	}
 
 }
